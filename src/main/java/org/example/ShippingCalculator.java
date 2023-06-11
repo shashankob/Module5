@@ -18,5 +18,7 @@ public class ShippingCalculator {
         double totalPrice = priceItem + shippingCost;
 
         System.out.println("Your shipping cost is $" + shippingCost + " and your totalPrice is $" + totalPrice);
+
+        scanner.close();
     }
 }
