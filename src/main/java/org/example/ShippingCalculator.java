@@ -1,3 +1,5 @@
+package org.example;
+
 import java.util.Scanner;
 public class ShippingCalculator {
     public static void main(String[] args) {
